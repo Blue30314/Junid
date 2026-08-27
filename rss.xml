@@ -6,7 +6,7 @@
   <link>https://blue30314.itch.io/junid</link>
   <description>RSS feed for Junid updates.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 25 Aug 2026 00:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 00:00:00 GMT</lastBuildDate>
   <atom:link href="https://raw.githubusercontent.com/Blue30314/Junid/refs/heads/main/rss.xml" rel="self" type="application/rss+xml" />
 
   <item>
@@ -15,6 +15,14 @@
     <description>Junid 1.1 is out for Windows and Linux transitioning from PySide6 to PyQt6 and adding a local page displaying its RSS feed.</description>
     <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
     <guid>1.1</guid>
+  </item>
+
+  <item>
+    <title>I'm tired bruh</title>
+    <link>https://blue30314.itch.io/junid</link>
+    <description>Every single time i start a new project like this i see why i shouldn't, there's no reason to do it anyway.</description>
+    <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    <guid>Tired #1</guid>
   </item>
 
 </channel>
